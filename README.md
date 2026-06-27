@@ -21,4 +21,4 @@ Hello and welcome to my personal portfolio! The website showcases my background,
 - HTML
 - CSS
 
-> **Note:**  This repository contains the static export of the WordPress website generated for deployment. The editable WordPress project is maintained locally.
+> **Note:**  This portfolio is exported as a static website using the **Simply Static** plugin and deployed through **GitHub Pages**. The editable WordPress project is maintained locally.
